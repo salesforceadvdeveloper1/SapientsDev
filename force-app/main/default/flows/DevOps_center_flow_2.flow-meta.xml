@@ -2,8 +2,8 @@
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>58.0</apiVersion>
     <environments>Default</environments>
-    <interviewLabel>DevOps Center Flow {!$Flow.CurrentDateTime}</interviewLabel>
-    <label>DevOps Center Flow</label>
+    <interviewLabel>DevOps center flow 2 {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>DevOps center flow 2</label>
     <processMetadataValues>
         <name>BuilderType</name>
         <value>
